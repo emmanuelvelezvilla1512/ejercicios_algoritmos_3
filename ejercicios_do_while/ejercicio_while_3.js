@@ -7,4 +7,4 @@
      suma=suma+numero
      numero++;
  }while(numero<=10);
- console.log("total:" + suma)
+ console.log("total: " + suma);

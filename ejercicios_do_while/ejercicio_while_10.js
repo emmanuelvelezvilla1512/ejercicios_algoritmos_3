@@ -8,4 +8,5 @@ do{
 
     }
     numero++;
-}while(numero<=20)
+
+}while(numero<=20);
