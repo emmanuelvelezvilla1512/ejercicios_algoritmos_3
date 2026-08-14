@@ -3,7 +3,7 @@
  */
 let numero = 0;
 do{
-        if (numero % 4 == 0) {
+    if (numero % 4 === 0) {
         console.log(numero);
     }
 
